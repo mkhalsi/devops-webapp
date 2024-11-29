@@ -18,7 +18,7 @@ date_default_timezone_set('America/New_York'); // Changez selon votre fuseau hor
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1> Bienvenue à mon Web App ! </h1> 
+    <h1> modification! </h1> 
     <div class="container">
         <p id="currDate"><?php echo "Today's Date is: " . date("m/d/Y"); ?></p>
         <p>Enter your Date of Birth in format: (MM/DD/YYYY)</p>
