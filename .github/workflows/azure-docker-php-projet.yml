@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 'devops-webapp/staging'  # Azure Web App name
+  AZURE_WEBAPP_NAME: 'devops-webapp'  # Azure Web App name
   DOCKER_IMAGE: 'mkhalsi/devops-webapp'  # Docker image name
   PHP_VERSION: '8.x'  # PHP version used
 
