@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 'web-appp'  
+  AZURE_WEBAPP_NAME: 'test-webb'  
   DOCKER_IMAGE: 'mkhalsi/devops-webapp' 
   PHP_VERSION: '8.x' 
 
